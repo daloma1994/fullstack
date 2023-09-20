@@ -1,0 +1,48 @@
+body{
+    background-color: darkslategray;
+    text-align: center;
+    margin:5%;
+    padding: 2%;
+    font-family: sans-serif;
+    
+    
+}
+.navegador{
+    display: inline-block;
+    background: black;
+    color: wheat;
+    padding: 10px 30px;
+    text-decoration: none;
+    border-radius: 10px;
+}
+.foto{
+   
+        border: 1px solid black;
+        border-radius: 60%;
+      
+}
+h1{
+    color: yellow;
+}
+h2{
+    color: wheat;
+}
+h3{
+    color: wheat;
+}
+
+.parrafo{
+    box-shadow: 1px 1px 48px 0px rgba(0,0,0,0.8);
+    -webkit-box-shadow: 1px 1px 48px 0px rgba(0,0,0,0.8);
+    -moz-box-shadow: 1px 1px 48px 0px rgba(0,0,0,0.8);
+    padding:2%;
+    margin: 5%;
+    -webkit-border-radius: 20px;
+    -moz-border-radius: 20px;
+    border-radius: 20px;
+    background: wheat;
+}
+
+dt{
+    color: yellow;
+}
